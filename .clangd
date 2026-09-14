@@ -1,0 +1,6 @@
+CompileFlags:
+  Add:
+    - -IC:/mingw/lib/gcc/mingw32/9.2.0/include
+    - -IC:/mingw/include
+    - -IC:/mingw/lib/gcc/mingw32/9.2.0/include-fixed
+    - -std=c11
