@@ -23,4 +23,4 @@ fcpd_1064576078_20262/
 
 | Fecha | Carpeta | Contenido |
 |-------|---------|-----------|
-| 2026-09-07 | [`classes/070926/FP_PD_01TALLER_REPASO/`](classes/070926/FP_PD_01TALLER_REPASO/) | Taller de repaso en C (ejercicios del 01 al 10) |
+| 2026-09-13 | [`classes/070926/FP_PD_01TALLER_REPASO/`](classes/070926/FP_PD_01TALLER_REPASO/) | Taller de repaso en C (ejercicios del 01 al 10) |
