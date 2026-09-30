@@ -25,4 +25,4 @@ fcpd_1064576078_20262/
 |-------|---------|-----------|
 | 2026-09-13 | [`classes/070926/FP_PD_01TALLER_REPASO/`](classes/070926/FP_PD_01TALLER_REPASO/) | Taller de repaso en C (ejercicios del 01 al 10) |
 | 2026-09-20 | [`classes/200926/FP_PD_02TALLER_AMDAHL/`](classes/200926/FP_PD_02TALLER_AMDAHL/) | Taller: Ley de Amdahl y Validación de Recursos (secuencial y paralelo en OpenMP) |
-| 2026-09-30 | [`classes/300926/FP_PD_03TALLER_OPENMP_POINTERS/`](classes/300926/FP_PD_03TALLER_OPENMP_POINTERS/) | Taller Repaso C Pointers + OpenMP Basics (Parte I: Ejercicios 01 al 05) |
+| 2026-09-30 | [`classes/300926/FP_PD_03TALLER_OPENMP_POINTERS/`](classes/300926/FP_PD_03TALLER_OPENMP_POINTERS/) | Taller Repaso C Pointers + OpenMP Basics (Parte I y Parte II completas, ejercicios 01 al 08) |
